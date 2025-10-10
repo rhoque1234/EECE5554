@@ -1,0 +1,38 @@
+[0.063s] Invoking command in '/mnt/c/Users/eshan/EECE5554/lab2/build/gnss': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com VIRTUAL_ENV_PROMPT=(venv-ardupilot) /usr/bin/cmake /mnt/c/Users/eshan/EECE5554/lab2/gnss -DCMAKE_INSTALL_PREFIX=/mnt/c/Users/eshan/EECE5554/lab2/install/gnss
+[0.142s] [33mCMake Warning (dev) in CMakeLists.txt:
+[0.143s]   No project() command is present.  The top-level CMakeLists.txt file must
+[0.143s]   contain a literal, direct call to the project() command.  Add a line of
+[0.144s]   code such as
+[0.145s] 
+[0.145s]     project(ProjectName)
+[0.146s] 
+[0.146s]   near the top of the file, but after cmake_minimum_required().
+[0.147s] 
+[0.147s]   CMake is pretending there is a "project(Project)" command on the first
+[0.148s]   line.
+[0.149s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[0.149s] [0m
+[0.150s] [33mCMake Warning (dev) in CMakeLists.txt:
+[0.151s]   cmake_minimum_required() should be called prior to this top-level project()
+[0.152s]   call.  Please see the cmake-commands(7) manual for usage documentation of
+[0.152s]   both commands.
+[0.153s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[0.154s] [0m
+[0.450s] -- The C compiler identification is GNU 13.3.0
+[1.542s] -- The CXX compiler identification is GNU 13.3.0
+[2.000s] -- Detecting C compiler ABI info
+[2.598s] -- Detecting C compiler ABI info - done
+[2.629s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.630s] -- Detecting C compile features
+[2.631s] -- Detecting C compile features - done
+[2.733s] -- Detecting CXX compiler ABI info
+[3.302s] -- Detecting CXX compiler ABI info - done
+[3.329s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[3.330s] -- Detecting CXX compile features
+[3.331s] -- Detecting CXX compile features - done
+[3.365s] -- Configuring done (3.2s)
+[3.411s] -- Generating done (0.0s)
+[3.505s] -- Build files have been written to: /mnt/c/Users/eshan/EECE5554/lab2/build/gnss
+[3.508s] Invoked command in '/mnt/c/Users/eshan/EECE5554/lab2/build/gnss' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com VIRTUAL_ENV_PROMPT=(venv-ardupilot) /usr/bin/cmake /mnt/c/Users/eshan/EECE5554/lab2/gnss -DCMAKE_INSTALL_PREFIX=/mnt/c/Users/eshan/EECE5554/lab2/install/gnss
+[3.515s] Invoking command in '/mnt/c/Users/eshan/EECE5554/lab2/build/gnss': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com VIRTUAL_ENV_PROMPT=(venv-ardupilot) /usr/bin/cmake --build /mnt/c/Users/eshan/EECE5554/lab2/build/gnss -- -j16 -l16
+[3.578s] Invoked command in '/mnt/c/Users/eshan/EECE5554/lab2/build/gnss' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com VIRTUAL_ENV_PROMPT=(venv-ardupilot) /usr/bin/cmake --build /mnt/c/Users/eshan/EECE5554/lab2/build/gnss -- -j16 -l16
