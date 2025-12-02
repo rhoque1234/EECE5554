@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# ROS
+build/
+devel/
+install/
+log/
+*.bag
+*.db3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data files (optional - comment out if you want to track them)
+# *.mcap
+# *.csv
+
+# Documentation build
+docs/_build/
