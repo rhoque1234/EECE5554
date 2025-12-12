@@ -1,0 +1,12 @@
+std_msgs/Header header
+string utc_time
+float64 latitude
+float64 longitude
+float64 altitude
+float64 easting
+float64 northing
+uint8 zone_num
+string zone_letter
+int32 fix_quality
+float64 hdop
+string gngga_string

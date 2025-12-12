@@ -1,0 +1,19 @@
+rosbag2_bagfile_information:
+  compression_format: ''
+  compression_mode: ''
+  duration:
+    nanoseconds: 309000000000
+  message_count: 309
+  relative_file_paths:
+  - lab2_master_0.db3
+  starting_time:
+    nanoseconds_since_epoch: 1765571005871817984
+  storage_identifier: sqlite3
+  topics_with_message_count:
+  - message_count: 309
+    topic_metadata:
+      name: /rtk_data
+      offered_qos_profiles: ''
+      serialization_format: cdr
+      type: std_msgs/msg/String
+  version: 5

@@ -1,0 +1,20 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+*.egg-info/
+.venv/
+*.png
+
+# ROS
+build/
+install/
+log/
+*.bag
+
+# IDE
+.vscode/
+.idea/
+*.swp
