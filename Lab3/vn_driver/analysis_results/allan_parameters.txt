@@ -1,0 +1,17 @@
+﻿VectorNav VN-100 Gyroscope Noise Parameters
+============================================================
+
+Gyro X-axis:
+  Angle Random Walk (N): 0.000556 deg/sqrt(hr)
+  Bias Stability (B): 0.000102 deg/hr (at tau=51.2s)
+  Rate Random Walk (K): 0.000017 deg/sqrt(hr)
+
+Gyro Y-axis:
+  Angle Random Walk (N): 0.000552 deg/sqrt(hr)
+  Bias Stability (B): 0.000105 deg/hr (at tau=51.2s)
+  Rate Random Walk (K): 0.000017 deg/sqrt(hr)
+
+Gyro Z-axis:
+  Angle Random Walk (N): 0.000554 deg/sqrt(hr)
+  Bias Stability (B): 0.000107 deg/hr (at tau=51.2s)
+  Rate Random Walk (K): 0.000009 deg/sqrt(hr)
